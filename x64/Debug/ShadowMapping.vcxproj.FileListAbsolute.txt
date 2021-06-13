@@ -1,0 +1,12 @@
+\\GergoNAS\Projects\ComputerGraphics\Assignment\Assignment\DepthOnly_ps.cso
+\\GergoNAS\Projects\ComputerGraphics\Assignment\Assignment\LightModel_ps.cso
+\\GergoNAS\Projects\ComputerGraphics\Assignment\Assignment\BasicTransform_vs.cso
+\\GergoNAS\Projects\ComputerGraphics\Assignment\Assignment\ShadowMapping_ps.cso
+\\GergoNAS\Projects\ComputerGraphics\Assignment\Assignment\ShadowMapping_vs.cso
+\\GergoNAS\Projects\ComputerGraphics\Assignment\Assignment\PointLight_ps.cso
+\\GergoNAS\Projects\ComputerGraphics\Assignment\Assignment\Wiggle_ps.cso
+\\GergoNAS\Projects\ComputerGraphics\Assignment\Assignment\Light_ps.cso
+\\GergoNAS\Projects\ComputerGraphics\Assignment\Assignment\FadeTexture_ps.cso
+\\GergoNAS\Projects\ComputerGraphics\Assignment\Assignment\NormalMapping_ps.cso
+\\GergoNAS\Projects\ComputerGraphics\Assignment\Assignment\NormalMapping_vs.cso
+\\GergoNAS\Projects\ComputerGraphics\Assignment\Assignment\ParallaxMapping_ps.cso
